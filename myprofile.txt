@@ -1,0 +1,4 @@
+nama : john doe
+umur : 18
+Alamat : konohagakure
+hobi : membaca
